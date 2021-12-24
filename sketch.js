@@ -1,8 +1,3 @@
-// Angry Birds
-// Daniel Shiffman
-// https://thecodingtrain.com/CodingChallenges/138-angry-birds.html
-// https://youtu.be/TDQzoe9nslY
-
 const { Engine, World, Bodies, Mouse, MouseConstraint, Constraint } = Matter;
 
 let ground;
